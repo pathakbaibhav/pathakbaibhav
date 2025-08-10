@@ -4,11 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+IoT+Engineer+%7C+Full-Stack;Building+Cloud+%2B+Edge+Systems;Learning+LLMs+for+IoT;Open+to+collabs+%26+interesting+projects" alt="Typing headline" />
 
-**Software Developer • IoT Engineer • Cloud & Full‑Stack Enthusiast**
+**Software Developer • IoT Engineer • Cloud & Full-Stack Enthusiast**
 
 </div>
 
-I'm a passionate **Software Developer** working across **IoT, backend, cloud (AWS, Azure)** and **full‑stack**. I enjoy designing reliable systems, crafting APIs, and shipping clean code. Toolbelt: **C/C++**, **Python**, **JavaScript/TypeScript**, **React**, **Node.js**, and **DevOps/CI**.
+I'm a passionate **Software Developer** working across **IoT, backend, cloud (AWS, Azure)** and **full-stack**. I enjoy designing reliable systems, crafting APIs, and shipping clean code. Toolbelt: **C/C++**, **Python**, **JavaScript/TypeScript**, **React**, **Node.js**, and **DevOps/CI**.
 
 ---
 
@@ -16,26 +16,26 @@ I'm a passionate **Software Developer** working across **IoT, backend, cloud (AW
 
 <p>
   <a href="mailto:pathak.ba@northeastern.edu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="28" alt="email" />
-    <b>  Email — pathak.ba@northeastern.edu</b>
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="28" alt="email" />
+    <b> Email — pathak.ba@northeastern.edu</b>
   </a>
 </p>
 <p>
   <a href="https://www.linkedin.com/in/baibhav-kumar-pathak-b806aa13b/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="linkedin"/>
-    <b>  LinkedIn — Baibhav Kumar Pathak</b>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="28" alt="linkedin"/>
+    <b> LinkedIn — Baibhav Kumar Pathak</b>
   </a>
 </p>
 <p>
   <a href="https://github.com/pathakbaibhav" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" alt="github"/>
-    <b>  GitHub — @pathakbaibhav</b>
+    <img src="https://img.icons8.com/material-outlined/48/github.png" width="28" alt="github"/>
+    <b> GitHub — @pathakbaibhav</b>
   </a>
 </p>
 <p>
   <a href="https://pathakbaibhav.github.io/Portfolio/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/firefoxbrowser.svg" width="28" alt="portfolio"/>
-    <b>  Portfolio — pathakbaibhav.github.io</b>
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-portfolio-web-flaticons-lineal-color-flat-icons.png" width="28" alt="portfolio"/>
+    <b> Portfolio — pathakbaibhav.github.io</b>
   </a>
 </p>
 
@@ -76,7 +76,7 @@ I'm a passionate **Software Developer** working across **IoT, backend, cloud (AW
       <sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="56" alt="AWS"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="56" alt="AWS"/><br/>
       <sub><b>AWS</b></sub>
     </td>
     <td align="center" width="110">
@@ -102,7 +102,7 @@ I'm a passionate **Software Developer** working across **IoT, backend, cloud (AW
       <sub><b>GraphQL</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="56" alt="Flask"/><br/>
+      <img src="https://upload.wikimedia.org/commons/3/3c/Flask_logo.svg" width="56" alt="Flask"/><br/>
       <sub><b>Flask</b></sub>
     </td>
     <td align="center" width="110">
@@ -115,11 +115,11 @@ I'm a passionate **Software Developer** working across **IoT, backend, cloud (AW
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="56" alt="VS Code"/><br/>
-      <sub><b>VS Code</b></sub>
+      <sub><b>VS Code</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="56" alt="Raspberry Pi"/><br/>
-      <sub><b>Raspberry Pi</b></sub>
+      <sub><b>Raspberry Pi</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="56" alt="Arduino"/><br/>
@@ -138,7 +138,7 @@ I'm a passionate **Software Developer** working across **IoT, backend, cloud (AW
 
 ## 🧪 Featured Projects
 - **Vision Transformer SoC (SystemC, C++)** — Modular ViT SoC with transformer blocks, MLP classifier, and feasibility for FPGA.
-- **ASL Interpretation Tool (Python, TF, OpenCV)** — Real‑time sign recognition with a clean UI.
+- **ASL Interpretation Tool (Python, TF, OpenCV)** — Real-time sign recognition with a clean UI.
 - **Boston Subway Network Visualization** — Route finder with dynamic data extraction and graph pathing.
 - **Cellular Network Drone** — Quadcopter leveraging mobile towers for extended range and telemetry.
 
@@ -159,18 +159,17 @@ I'm a passionate **Software Developer** working across **IoT, backend, cloud (AW
 
 <img src="https://streak-stats.demolab.com?user=pathakbaibhav&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" height="165"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pathakbaibhav&theme=github-dark&hide_border=true" />
-
 </div>
 
 ---
 
 ## 🐍 Fun Stuff — Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pathakbaibhav/pathakbaibhav/output/snake.svg#gh-light-mode-only" alt="snake light"/>
-  <img src="https://raw.githubusercontent.com/pathakbaibhav/pathakbaibhav/output/snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pathakbaibhav/pathakbaibhav/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pathakbaibhav/pathakbaibhav/output/snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/pathakbaibhav/pathakbaibhav/output/snake.svg">
+  </picture>
 </p>
 
 > The snake image auto-updates via a GitHub Action (see `.github/workflows/generate-snake.yml`).
@@ -178,7 +177,7 @@ I'm a passionate **Software Developer** working across **IoT, backend, cloud (AW
 ---
 
 ## 📚 Currently Learning
-**LLMs for edge/IoT**, **MLOps**, **hardware‑aware AI**, and **modern React + TypeScript** patterns.
+**LLMs for edge/IoT**, **MLOps**, **hardware-aware AI**, and **modern React + TypeScript** patterns.
 
 ---
 
