@@ -1,0 +1,32 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "5 0 * * *"   # every day at 00:05 UTC
+  workflow_dispatch:        # allow manual runs
+  push:
+    branches: [ main ]      # re-run when README changes
+
+permissions:
+  contents: write           # allow pushing to the output branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake files
+        uses: Platane/snk@v3
+        with:
+          github_user_name: pathakbaibhav
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif?color_snake=purple
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
