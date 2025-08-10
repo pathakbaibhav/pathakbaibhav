@@ -1,67 +1,150 @@
 <div align="center">
-  
+
 # Hey! I'm Baibhav 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+IoT+Engineer+%7C+Full-Stack;Building+Cloud+%2B+Edge+Systems;Learning+LLMs+for+IoT;Open+to+collabs+%26+interesting+projects" alt="Typing headline" />
 
 **Software Developer • IoT Engineer • Cloud & Full‑Stack Enthusiast**
 
 </div>
 
-I'm a passionate **Software Developer** with experience across **IoT, backend development, cloud computing (AWS, Azure)** and **full‑stack engineering**. I love building clean, efficient systems—whether that's packaging & automation at scale, backend APIs, or interactive visualizations. My toolbelt spans **C/C++**, **Python**, **JavaScript**, **Node.js**, **React**, and **SystemC**, with hands‑on exposure to **DevOps and CI/CD**.
-
-I enjoy solving complex problems, writing readable code, and continuously expanding my technical range. Recently, I've been diving deeper into **AI/ML for edge/IoT**, **computer vision**, and **systems design for scale**.
+I'm a passionate **Software Developer** working across **IoT, backend, cloud (AWS, Azure)** and **full‑stack**. I enjoy designing reliable systems, crafting APIs, and shipping clean code. Toolbelt: **C/C++**, **Python**, **JavaScript/TypeScript**, **React**, **Node.js**, and **DevOps/CI**.
 
 ---
 
-### 🔗 Connect with me
-
-<a href="https://www.linkedin.com/in/baibhav-kumar-pathak-b806aa13b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Baibhav%20Kumar%20Pathak-blue?logo=linkedin"></a>
-<a href="https://pathakbaibhav.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-black?logo=firefox-browser"></a>
-<a href="https://github.com/pathakbaibhav"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-pathakbaibhav-181717?logo=github"></a>
-<a href="mailto:pathak.ba@northeastern.edu"><img alt="Email" src="https://img.shields.io/badge/Email-pathak.ba@northeastern.edu-red?logo=gmail"></a>
-
----
-
-### 🧰 Tech I work with
+## 🔗 Connect with me
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-  <img alt="REST" src="https://img.shields.io/badge/REST-API-1f6feb">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900">
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white">
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white">
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white">
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white">
-  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?logo=eclipsemosquitto&logoColor=white">
-  <img alt="SystemC" src="https://img.shields.io/badge/SystemC-143?logo=c&logoColor=white">
-  <img alt="SCCM" src="https://img.shields.io/badge/SCCM-2D2D2D">
-  <img alt="AdminStudio" src="https://img.shields.io/badge/AdminStudio-2D2D2D">
+  <a href="mailto:pathak.ba@northeastern.edu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="28" alt="email" />
+    <b>  Email — pathak.ba@northeastern.edu</b>
+  </a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/baibhav-kumar-pathak-b806aa13b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="linkedin"/>
+    <b>  LinkedIn — Baibhav Kumar Pathak</b>
+  </a>
+</p>
+<p>
+  <a href="https://github.com/pathakbaibhav" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" alt="github"/>
+    <b>  GitHub — @pathakbaibhav</b>
+  </a>
+</p>
+<p>
+  <a href="https://pathakbaibhav.github.io/Portfolio/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/firefoxbrowser.svg" width="28" alt="portfolio"/>
+    <b>  Portfolio — pathakbaibhav.github.io</b>
+  </a>
 </p>
 
 ---
 
-### 🧪 Featured projects
+## 🧰 Tech Stack
 
-- **Vision Transformer SoC (SystemC, C++)** — Modular ViT SoC with transformer blocks, MLP classifier, and feasibility study for FPGA deployment.
-- **ASL Interpretation Tool (Python, TF, OpenCV, MediaPipe)** — Real‑time sign recognition with >90% accuracy and an intuitive web UI.
-- **Boston Subway Network Visualization (Processing, Python)** — Route finder with dynamic data extraction and graph pathing.
-- **Cellular Network Drone (Arduino C, Python)** — Quadcopter leveraging mobile network towers for extended range and real‑time telemetry.
+<div align="center">
 
-> Explore more on my repos or ping me for a walkthrough!
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="56" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="56" alt="C"/><br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="56" alt="C++"/><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="56" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="56" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="56" alt="React"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="56" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="56" alt="AWS"/><br/>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="56" alt="Azure"/><br/>
+      <sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="56" alt="Docker"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="56" alt="FastAPI"/><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="56" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="56" alt="GraphQL"/><br/>
+      <sub><b>GraphQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="56" alt="Flask"/><br/>
+      <sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="56" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="56" alt="Redis"/><br/>
+      <sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="56" alt="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="56" alt="Raspberry Pi"/><br/>
+      <sub><b>Raspberry Pi</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="56" alt="Arduino"/><br/>
+      <sub><b>Arduino</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="56" alt="Linux"/><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🧪 Featured Projects
+- **Vision Transformer SoC (SystemC, C++)** — Modular ViT SoC with transformer blocks, MLP classifier, and feasibility for FPGA.
+- **ASL Interpretation Tool (Python, TF, OpenCV)** — Real‑time sign recognition with a clean UI.
+- **Boston Subway Network Visualization** — Route finder with dynamic data extraction and graph pathing.
+- **Cellular Network Drone** — Quadcopter leveraging mobile towers for extended range and telemetry.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -84,23 +167,23 @@ I enjoy solving complex problems, writing readable code, and continuously expand
 
 ---
 
-### 💼 Experience snapshot
+## 🐍 Fun Stuff — Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pathakbaibhav/pathakbaibhav/output/snake.svg#gh-light-mode-only" alt="snake light"/>
+  <img src="https://raw.githubusercontent.com/pathakbaibhav/pathakbaibhav/output/snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
+</p>
 
-- Built & deployed **50+** enterprise software packages (macOS/Windows) with AdminStudio, Shell, and SCCM.
-- Automated testing & deployment using **PowerShell**, **Python**, and **Jenkins**, cutting manual effort by **30%**.
-- Led data extraction using **Microsoft Graph** + **Azure**, improving accuracy by **35%** for analytics workflows.
-- 3rd‑level packaging support with **95%** resolution success for 200+ Autopilot/Azure end users.
+> The snake image auto-updates via a GitHub Action (see `.github/workflows/generate-snake.yml`).
 
 ---
 
-### 📚 Currently learning
-
-**LLMs for edge/IoT**, **MLOps**, **hardware‑aware AI**, **systems design**, and **React + TypeScript** patterns.
+## 📚 Currently Learning
+**LLMs for edge/IoT**, **MLOps**, **hardware‑aware AI**, and **modern React + TypeScript** patterns.
 
 ---
 
 <div align="center">
 
-*Thanks for stopping by — feel free to connect or open a discussion!*
+*Thanks for stopping by — feel free to reach out or open a discussion!*
 
 </div>
