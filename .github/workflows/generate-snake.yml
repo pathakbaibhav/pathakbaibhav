@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "5 0 * * *"   # every day at 00:05 UTC
+    - cron: "47 * * * *"  # every hour at :47
   workflow_dispatch:        # allow manual runs
   push:
     branches: [ main ]      # re-run when README changes

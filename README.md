@@ -53,10 +53,10 @@ Also: **SystemC**, REST & WebSockets, JWT auth, MediaPipe, scikit-learn, MQTT, U
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pathakbaibhav&show_icons=true&count_private=true&hide_border=true&theme=github_dark">
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathakbaibhav&layout=compact&langs_count=8&hide_border=true&theme=github_dark">
+<img height="165" alt="GitHub stats" src="https://raw.githubusercontent.com/pathakbaibhav/pathakbaibhav/stats/stats.svg">
+<img height="165" alt="Top languages" src="https://raw.githubusercontent.com/pathakbaibhav/pathakbaibhav/stats/top-langs.svg">
 
-<img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=pathakbaibhav&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+<img height="165" alt="GitHub streak" src="https://raw.githubusercontent.com/pathakbaibhav/pathakbaibhav/stats/streak.svg">
 
 </div>
 

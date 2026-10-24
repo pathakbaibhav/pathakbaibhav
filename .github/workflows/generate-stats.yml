@@ -1,0 +1,45 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: "17 * * * *"    # every hour at :17 (off the busy top of the hour)
+  workflow_dispatch:        # allow manual runs
+  push:
+    branches: [ main ]      # re-run when README changes
+
+permissions:
+  contents: write           # allow pushing to the stats branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=github_dark
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&theme=github_dark
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D
+          path: dist/streak.svg
+
+      - name: Push to stats branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: stats
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
